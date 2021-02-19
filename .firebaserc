@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "mirzailhami-blog"
+  },
+  "targets": {
+    "mirzailhami-blog": {
+      "hosting": {
+        "api": [
+          "mirzailhami-api"
+        ]
+      }
+    }
+  }
+}
